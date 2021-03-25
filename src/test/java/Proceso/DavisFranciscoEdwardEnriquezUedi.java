@@ -15,7 +15,7 @@ import static org.mockito.Mockito.when;
 public class DavisFranciscoEdwardEnriquezUedi {
 
     @InjectMocks
-    private AsignarHorario asignarHorario;
+    private AsignarHorario asignarHorario; 
 
     @Mock
     private Carrera carrera;
